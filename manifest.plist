@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
-      <array>
+    <key>items</key>
+    <array>
         <dict>
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <string>https://download938.mediafire.com/m6876zt7138gkwwuoRB9DJ-8wdF42-J3P5LRKBK6cEq8VnWwDdpFuaHB8NdJHNIL3PCIDpF7PDoR53HLu3J9U6C459MyyxJG39k5YhbTCcj7XHxPgZbTQXM1Y_rkZZ56kLLDKSLFZj6FD8f4cVAqvgN5jz9aigpGlv-wBkaBAR04DA/l2vlqkg9057pl2f/kok3shi9_v5.0.3%281%29.ipa</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://download1085.mediafire.com/1w65cuh1u6rg-cmB4DrwFr52BS6S2KkUAQjX6vtBv-WxnUnYhU2MvSatyxWyWJCe0l3v0QFTIxKq1xfH-u4myIDdpXCpmDAJklN2oZqy-0gt1tGBTfNNQ9W2jzEqRIut2r4Jb_XOcla_fZF4eoesN9Del6h4e5Y0jXkqXd36st5r/muf6k6sg3xvwash/kok3shi9_v5.0.3.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.kok3shi9.jb</string>
+                <key>bundle-version</key>
+                <string>5.0.3</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>kok3shi9 Jailbreak</string>
+            </dict>
         </dict>
-      </array>
-      <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>com.kok3shi.jb</string>
-        <key>bundle-version</key>
-        <string>5.0.3</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>kok3shi9</string>
-      </dict>
-    </dict>
-  </array>
+    </array>
 </dict>
 </plist>
